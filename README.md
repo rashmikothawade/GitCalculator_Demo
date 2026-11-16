@@ -1,1 +1,0 @@
-# GitCalculator_Demo
